@@ -418,7 +418,7 @@ Go 2?!
 
 - В случая на Benchmark-овете това е дори още по полезно
 - Понеже Benchmark-овете се измерват от началото на Benchmark функцията до нейното завършване, правенето на таблични Benchmark-ове е невъзможно
-- Но в 1.7 можем да ползвам под Benchmark-ове
+- Но в 1.7 можем да ползваме под Benchmark-ове
 
 .code code/errors_and_testing/table_test.go /func BenchmarkSubFibonacci/,/SUB BENCHMARK OMIT/
 
